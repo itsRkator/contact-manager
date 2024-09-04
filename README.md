@@ -49,8 +49,8 @@ requirements.txt
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/itsRkator/contact-manager.git
+cd contact-manager
 ```
 
 ### 2. Create and Activate Virtual Environment
